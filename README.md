@@ -16,6 +16,7 @@ This README provides a concise overview of the Catgirl Crackme challenge, a begi
 * Quality: ⭐ 4.0/5.0
 * File Size: 49.72 KB
 * Download: https://crackmes.one/download/crackme/69b282cff2d49d8512f649df
+* Password: crackmes.one
 
 ### Objective
 
